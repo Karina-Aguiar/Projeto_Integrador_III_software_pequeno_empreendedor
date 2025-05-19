@@ -1,5 +1,7 @@
-#  Universidade Virtual do Estado de São Paulo - Polos: Guarulhos, São Caeano do Sul e Suzano
+##  Universidade Virtual do Estado de São Paulo - Polos: Guarulhos, São Caeano do Sul e Suzano
+
 Projeto Integrador III
+
 Desenvolvimento de um software para simplificar, facilitar e otimizar a rotina do empreendedor
 
 ## Alunas/Integrantes do Projeto:
